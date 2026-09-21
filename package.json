@@ -1,0 +1,11 @@
+{
+  "name": "sistema-ferreteria",
+  "private": true,
+  "description": "Sistema Integral de Gestión — Ferretería (SaaS multi-tenant)",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "start": "npm --prefix frontend run dev"
+  }
+}
